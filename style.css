@@ -1,0 +1,16 @@
+h1{
+	color: black;
+	font-size: 70px;
+	text-align: center;
+}
+.p1{
+	color: black;
+    font-size: 50px;
+    text-align: center;
+}
+
+.caixa{
+	display: flex;
+	font-size: 60px;
+
+}
