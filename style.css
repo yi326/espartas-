@@ -8,9 +8,39 @@ h1{
     font-size: 50px;
     text-align: center;
 }
+.imagem{
+	font-size: 50%;
+	text-align: center;
 
-.caixa{
-	display: flex;
+}
+
+h2{
+	color: black;
+	text-align: center;
 	font-size: 60px;
-
+}
+.historia{
+	color: black;
+	font-size: 40px;
+}
+.paragrafo{
+	color: black;
+	font-size: 30px;
+}
+.Leonidas{
+	color: black;
+	font-size: 40px;
+}
+.paragrafo2{
+	color: black;
+	font-size: 30px;
+}
+.h3{
+	color: black;
+	font-size: 60px;
+	text-align: center;
+}
+.texto{
+   color: black;
+   font-size: 30px;
 }
